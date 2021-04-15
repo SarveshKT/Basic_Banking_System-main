@@ -116,7 +116,7 @@ if(isset($_POST['submit']))
         <div class="logoimg">
             <img src="static/logo.png" alt="logo">
         </div>
-        <div class="logo">G&#8377;ow Bank</div>
+        <div class="logo">GROW MORE Bank</div>
         <div class="navigation">
             <ul>
                 <li><a href="index.html">Home</a></li>
