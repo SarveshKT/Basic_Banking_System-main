@@ -4,7 +4,7 @@
 > A basic banking system
 ![Preview](/static/preview.png)
 
-[LIVE DEMO](https://sarveshkt-growmore.000webhostapp.com/)
+[Click to view website](https://sarveshkt-growmore.000webhostapp.com/)
 
 Project Specifications:
 
