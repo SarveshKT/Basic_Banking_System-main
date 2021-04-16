@@ -99,7 +99,7 @@ if(isset($_POST['submit']))
 			background: #d9d9d9;
 		}
 	    button:hover{
-			background-color:#985BE6;
+			background-color:#0073cf;
 			transform: scale(1.1);
 			color:white;
 		}
